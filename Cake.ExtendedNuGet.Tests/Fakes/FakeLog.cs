@@ -1,4 +1,5 @@
-﻿using System.Collections.Generic;
+﻿using System;
+using System.Collections.Generic;
 using Cake.Core.Diagnostics;
 
 namespace Cake.Xamarin.Tests.Fakes
@@ -34,6 +35,7 @@ namespace Cake.Xamarin.Tests.Fakes
         public Verbosity Verbosity
         {
             get { return Verbosity.Diagnostic; }
+            set { }
         }
 
         /// <summary>

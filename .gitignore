@@ -9,3 +9,8 @@ nupkg/
 .nugetapikey
 xtc-api-key
 xtc-email
+/Cake.ExtendedNuGet.v3.ncrunchsolution.user
+/Cake.ExtendedNuGet.v3.ncrunchsolution
+/_NCrunch_Cake.ExtendedNuGet
+/Cake.ExtendedNuGet/Cake.ExtendedNuGet.v3.ncrunchproject
+/Cake.ExtendedNuGet.Tests/Cake.ExtendedNuGet.Tests.v3.ncrunchproject
